@@ -1,7 +1,7 @@
-# PHW-2 디스크립션
+# 2022_ML_PHW1
+Machine learning subject PHW1 assignment results for the second semester of 2022
 
-Created: 2022년 10월 15일 오후 1:51
-Last Edited Time: 2022년 10월 15일 오후 2:04
+# **Program description for PHW 2 programming task.**
 
 1. Source Code - Description
     
