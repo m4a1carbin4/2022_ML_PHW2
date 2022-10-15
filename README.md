@@ -50,47 +50,47 @@ Last Edited Time: 2022년 10월 15일 오후 2:04
     
 2. output result
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled.png)
+    ![Untitled](PHW-2_img/Untitled.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%201.png)
+    ![Untitled](PHW-2_img/Untitled%201.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%202.png)
+    ![Untitled](PHW-2_img/Untitled%202.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%203.png)
+    ![Untitled](PHW-2_img/Untitled%203.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%204.png)
+    ![Untitled](PHW-2_img/Untitled%204.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%205.png)
+    ![Untitled](PHW-2_img/Untitled%205.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%206.png)
+    ![Untitled](PHW-2_img/Untitled%206.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%207.png)
+    ![Untitled](PHW-2_img/Untitled%207.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%208.png)
+    ![Untitled](PHW-2_img/Untitled%208.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%209.png)
+    ![Untitled](PHW-2_img/Untitled%209.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%2010.png)
+    ![Untitled](PHW-2_img/Untitled%2010.png)
     
     ## Result- Make_model(4,encoded_data1,2)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%2011.png)
+    ![Untitled](PHW-2_img/Untitled%2011.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%2012.png)
+    ![Untitled](PHW-2_img/Untitled%2012.png)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%2013.png)
+    ![Untitled](PHW-2_img/Untitled%2013.png)
     
     ### Result - Make_model(4,encoded_data1,3,eps=100.0)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%2014.png)
+    ![Untitled](PHW-2_img/Untitled%2014.png)
     
     ### Result - Make_model(4,encoded_data2,1)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%2015.png)
+    ![Untitled](PHW-2_img/Untitled%2015.png)
     
     ### Result - Make_model(5,encoded_data1,0)
     
-    ![Untitled](PHW-2%20%E1%84%83%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB%201357e0a9bad04ea6b8af1d7681655892/Untitled%2016.png)
+    ![Untitled](PHW-2_img/Untitled%2016.png)
     
     ### The resulting output is too large, so we omiited a part of the plot.
     
